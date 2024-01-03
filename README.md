@@ -1,2 +1,9 @@
 # Pest-Resistance
-Deep Learning based Genomic Breeding of Pest-Resistant Grapevine
+**Deep Learning based Genomic Breeding of Pest-Resistant Grapevine**
+
+Crop pests have significantly deleterious effects on the crop yield and food security. However, conventional pest control methods depend on the utilization of insecticides, which introduce strong pesticide resistance and concerns of food safety. Crops and its wild relatives display diverse levels of pest resistance, indicating the feasibility for breeding of pest-resistant crop varieties. In this study, we integrate deep learning (DL)/machine learning (ML) algorithms, phenomics and whole genome sequencing (WGS) data to conduct genomic selection in grapevine. We employed deep convolutional neural neural networks (DCNN) to accurately calculate the severity of damage by pests on grape leaves, which achieved impressive performance with a classification accuracy of 95.3% (VGG16) and a correlation coefficient of 0.94 in regression analysis (DCNN with Pest Damage Score, DCNN-PDS). We employed DL models to predict and integrate phenotype and WGS data from 231 grape accessions, conducting Genome-Wide Association Studies (GWAS). This analysis revealed a total of 69 QTLs, encompassing 139 genes. Among these genes, some are implicated in pathways associated with pest resistance, including jasmonic acid, ethylene, salicylic acid, for both categorical and continuous traits. Furthermore, through the combination of transcriptome data, we identified specific pest-resistant genes such as ACA12 and CRK3. These genes play distinct roles in resisting herbivorous attacks. Additionally, machine learning-based genomic selection has demonstrated high accuracy (94%) and a strong correlation (0.96) in predicting the leaf area damaged by pests in grapevines. This involves predicting both binary and continuous traits associated with grapevine foliage. In summary, our study indicates the power of DL/ML in plant phenomics and genomic selection, facilitate the breeding of pest-resistant grapevine.
+
+**Key words**: Viticulture, AI breeding, GWAS, Genomic selection, Crop breeding
+
+
+
